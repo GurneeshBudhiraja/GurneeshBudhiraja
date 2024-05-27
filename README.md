@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I'm Gurneesh 👋<br>I'm a passionate developer with a knack for solving real-world problems through code. With expertise in HTML, CSS, JS, React, Python, Flask, Express, and TailwindCSS, I love building projects that make a difference.<br><br>What I Do<br>Web Development: Creating responsive, user-friendly web applications.<br>Tech Enthusiast: Exploring the latest in AI/ML and new technologies.<br>Startup Lover: Keen interest in startups and entrepreneurial ventures.<br>About Me<br>Coding Experience: Over a year of hands-on experience.<br>Bookworm: Enjoy reading about finance, technology, philosophy, biographies, and entrepreneurship. Favorite book: The Shoe Dog by Phil Knight.<br>Let's connect and build something amazing together!<br><br>
+Hi, I'm Gurneesh 👋<br>
+I'm a passionate developer with a knack for solving real-world problems through code. With expertise in HTML, CSS, JS, React, Python, Flask, Express, and TailwindCSS, I love building projects that make a difference.<br><br>
+
+What I Do<br>
+💻 Web Development: Creating responsive, user-friendly web applications.<br>
+🚀 Tech Enthusiast: Exploring the latest in AI/ML and new technologies.<br>
+💡 Startup Lover: Keen interest in startups and entrepreneurial ventures.<br><br>
+
+About Me<br>
+👨‍💻 Coding Experience: Over a year of hands-on experience.<br>
+📚 Bookworm: Enjoy reading about finance, technology, philosophy, biographies, and entrepreneurship. Favorite book: <em>The Shoe Dog</em> by Phil Knight.<br><br>
+
+Let's connect and build something amazing together! 🌟<br>
 
 
 ## 🌐 Socials:
