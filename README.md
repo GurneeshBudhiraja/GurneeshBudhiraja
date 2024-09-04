@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Gurneesh 👋<br>
-I'm a passionate developer with a knack for solving real-world problems through code. With expertise in HTML, CSS, JS, React, Python, Flask, Express, and TailwindCSS, I love building projects that make a difference.<br><br>
+I'm a passionate developer with a knack for solving real-world problems through code. I love building projects that make a difference.<br><br>
 
 What I Do<br>
 💻 Web Development: Creating responsive, user-friendly web applications.<br>
