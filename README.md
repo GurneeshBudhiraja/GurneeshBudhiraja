@@ -1,3 +1,5 @@
+[![An image of @gurneeshbudhiraja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurneeshbudhiraja)](https://holopin.io/@gurneeshbudhiraja)
+
 # 💫 About Me:
 Hi, I'm Gurneesh 👋<br>
 I'm a passionate developer with a knack for solving real-world problems through code. I love building projects that make a difference.<br><br>
