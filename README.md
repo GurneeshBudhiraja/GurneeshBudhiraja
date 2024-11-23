@@ -2,18 +2,17 @@
 
 # 💫 About Me:
 Hi, I'm Gurneesh 👋<br>
+Hacktoberfest 2024 Level 4 Achieved 🏆<br>
 I'm a passionate developer with a knack for solving real-world problems through code. I love building projects that make a difference.<br><br>
 
 What I Do<br>
-💻 Web Development: Creating responsive, user-friendly web applications.<br>
+💻 Web Development: Creating web applications and tools that REALLY solve problem.<br>
 🚀 Tech Enthusiast: Exploring the latest in AI/ML and new technologies.<br>
 💡 Startup Lover: Keen interest in startups and entrepreneurial ventures.<br><br>
 
 About Me<br>
 👨‍💻 Coding Experience: Over a year of hands-on experience.<br>
-📚 Bookworm: Enjoy reading about finance, technology, philosophy, biographies, and entrepreneurship. Favorite book: <em>The Shoe Dog</em> by Phil Knight.<br><br>
-
-Let's connect and build something amazing together! 🌟<br>
+📚 Bookworm: Enjoy reading about technology, philosophy, biographies, and entrepreneurship. Favorite book: <em>The Shoe Dog</em> by Phil Knight.<br><br>
 
 
 ## 🌐 Socials:
@@ -34,9 +33,6 @@ Let's connect and build something amazing together! 🌟<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GurneeshBudhiraja&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GurneeshBudhiraja&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
