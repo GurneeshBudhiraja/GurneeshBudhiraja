@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi, I'm Gurneesh 👋<br>
-Hacktoberfest 2024 Level 4 Achieved 🏆<br>
+Level 4 Hacktoberfest 2024 🏆<br>
 I'm a passionate developer with a knack for solving real-world problems through code. I love building projects that make a difference.<br><br>
 
 What I Do<br>
