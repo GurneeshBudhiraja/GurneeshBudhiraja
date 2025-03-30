@@ -1,18 +1,11 @@
 [![An image of @gurneeshbudhiraja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurneeshbudhiraja)](https://holopin.io/@gurneeshbudhiraja)
 
 # 💫 About Me:
-Hi, I'm Gurneesh 👋<br>
-Level 4 Hacktoberfest 2024 🏆<br>
-I'm a passionate developer with a knack for solving real-world problems through code. I love building projects that make a difference.<br><br>
-
-What I Do<br>
-💻 Web Development: Creating web applications and tools that REALLY solve problem.<br>
-🚀 Tech Enthusiast: Exploring the latest in AI/ML and new technologies.<br>
-💡 Startup Lover: Keen interest in startups and entrepreneurial ventures.<br><br>
-
-About Me<br>
-👨‍💻 Coding Experience: Over a year of hands-on experience.<br>
-📚 Bookworm: Enjoy reading about technology, philosophy, biographies, and entrepreneurship. Favorite book: <em>The Shoe Dog</em> by Phil Knight.<br><br>
+<b>Software Developer   skilled in building <b>full-stack applications using Next.js 15, React, TypeScript, and Node.js.
+<br> 
+Experienced in developing scalable APIs, integrating AI tools like LangChain and Gemini, and optimizing systems for performance.
+<br>
+Proven contributor to open-source design systems and GenAI projects, with a strong focus on real-world impact.</b>
 
 
 ## 🌐 Socials:
