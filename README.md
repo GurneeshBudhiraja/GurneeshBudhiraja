@@ -1,5 +1,3 @@
-[![An image of @gurneeshbudhiraja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurneeshbudhiraja)](https://holopin.io/@gurneeshbudhiraja)
-
 # 💫 About Me:
 <b>Software Developer   skilled in building <b>full-stack applications using Next.js 15, React, TypeScript, and Node.js.
 <br> 
