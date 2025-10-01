@@ -1,6 +1,6 @@
 `I am a Fullstack Developer`<br/>
 I know `JavaScript, TypeScript, and Python`<br/>
-Got my hands dirty with `React, Next.js, Express.js, FastAPI`
+Got my hands dirty with `React, Next.js, Express.js, and FastAPI`
 > Tinkering with AI in my free time
 
 ## 🌐 Socials:
